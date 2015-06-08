@@ -1,0 +1,15 @@
+Duty#0 Capacity 8
+Duty#0 isCapacityOf hiiYCLsxFmpE
+LiabilityCapacity#0 Capacity 9
+LiabilityCapacity#0 isCapacityOf AHdmxe
+Duty#0 ObjLiabilityCapacity ObjLiabilityCapacity#0
+ContractualCapability#1 Capacity 29
+ContractualCapability#1 isCapacityOf oNrDOEZf
+Duty#1 Capacity 1
+Duty#1 isCapacityOf gtPRgrwgUnIo
+LiabilityCapacity#1 Capacity 36
+LiabilityCapacity#1 isCapacityOf VxvgIb
+Duty#1 ObjLiabilityCapacity ObjLiabilityCapacity#1
+ContractualCapability#1 ObjDuty ObjDuty#1
+LiabilityCapacity#2 Capacity 9
+LiabilityCapacity#2 isCapacityOf viRFot
